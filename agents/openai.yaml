@@ -1,0 +1,4 @@
+interface:
+  display_name: "Anti-Anthropic"
+  short_description: "Find AI platform backlash opportunities"
+  default_prompt: "Use $anti-anthropic to turn this AI platform controversy into concrete startup opportunities."
